@@ -12,6 +12,7 @@
 		2EF798741FCB4F1900ADADB7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EF798721FCB4F1900ADADB7 /* Main.storyboard */; };
 		2EF798761FCB4F1900ADADB7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EF798751FCB4F1900ADADB7 /* Assets.xcassets */; };
 		2EF798791FCB4F1900ADADB7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EF798771FCB4F1900ADADB7 /* LaunchScreen.storyboard */; };
+		2EF798811FCB550B00ADADB7 /* weathertodaybg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2EF798801FCB550B00ADADB7 /* weathertodaybg.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2EF798751FCB4F1900ADADB7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2EF798781FCB4F1900ADADB7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2EF7987A1FCB4F1900ADADB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2EF798801FCB550B00ADADB7 /* weathertodaybg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = weathertodaybg.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		2EF7986D1FCB4F1900ADADB7 /* Weather Today Plus */ = {
 			isa = PBXGroup;
 			children = (
+				2EF798801FCB550B00ADADB7 /* weathertodaybg.jpg */,
 				2EF7986E1FCB4F1900ADADB7 /* AppDelegate.swift */,
 				2EF798701FCB4F1900ADADB7 /* ViewController.swift */,
 				2EF798721FCB4F1900ADADB7 /* Main.storyboard */,
@@ -126,6 +129,7 @@
 				2EF798791FCB4F1900ADADB7 /* LaunchScreen.storyboard in Resources */,
 				2EF798761FCB4F1900ADADB7 /* Assets.xcassets in Resources */,
 				2EF798741FCB4F1900ADADB7 /* Main.storyboard in Resources */,
+				2EF798811FCB550B00ADADB7 /* weathertodaybg.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
